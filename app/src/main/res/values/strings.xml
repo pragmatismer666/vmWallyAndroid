@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">vmWally</string>
+
+    <string name="click_to_show">Click to show BlurLockView</string>
+    <string name="password_correct" translatable="false">Password Correct</string>
+    <string name="pintitle" translatable="false">Login - PinCode Security</string>
+
+    <string name="paid_new_wallet">Paid New Wallet</string>
+    <string name="open_existing_wallet">Open Existing Wallet</string>
+    <string name="load_wallet_from_test_store">Load Wallet From Test Store</string>
+    <string name="vmwally_menu">vmWally Menu</string>
+    <string name="exit">EXIT</string>
+
+    <string name="noPinCode">PinCode is not existed.</string>
+    <string name="changePin">CHANGE PIN</string>
+    <string name="setupPin">SETUP/CHANGE PIN</string>
+    <string name="setupPinCode">Setup PinCode</string>
+    <string name="changePinCode">Change PinCode</string>
+    <string name="pinCodeConfirmed">PinCode Confirmed</string>
+    <string name="reInputNewPinCode">Please Reinput PinCode</string>
+    <string name="pleaseConfirm">Please Confirm by input again.</string>
+
+</resources>
